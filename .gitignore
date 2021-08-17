@@ -1,0 +1,26 @@
+.DS_Store
+
+# package managements
+node_modules
+bower_components
+jspm_packages
+
+# compiled files
+**/build
+**/built
+**/dest
+**/dist
+
+# all log files
+*.log
+npm-debug.log.*
+*.brackets
+*.vscode
+*.cache
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# idea config
+.idea
+node_modules
